@@ -1,0 +1,7 @@
+{{yield}}
+
+<li>
+    <h4>{{song.title}}</h4>
+    <p>Price: ${{song.price}} | Play Count: {{song.playCount}} {{#if isPopular}} | <span class="pop">Popular</span>{{/if}} | {{#if isCheap}} $ {{else}} $${{/if}}</p>
+
+</li>

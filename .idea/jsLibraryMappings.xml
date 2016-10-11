@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{itp-assignment-5/node_modules}" />
+    <file url="PROJECT" libraries="{bower_components itp-assignment-5, node_modules itp-assignment-5}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
